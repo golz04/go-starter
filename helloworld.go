@@ -1,6 +1,15 @@
-package main;
-import "fmt";
+package main
 
-func main(){
-	fmt.Println("Halo mHaidar!");
-};
+import (
+	"fmt"
+)
+
+func main() {
+	fmt.Println("======================================================")
+	fmt.Println("Halo mHaidar!")
+	samplePrint()
+	fmt.Println()
+
+	fmt.Println("======================================================")
+	fmt.Println("Tipe Data Numeric")
+}
