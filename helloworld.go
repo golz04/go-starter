@@ -21,4 +21,9 @@ func main() {
 	fmt.Println("-----------------")
 	sampleBoolean()
 	fmt.Println()
+
+	fmt.Println("Tipe Data String")
+	fmt.Println("----------------")
+	sampleString()
+	fmt.Println()
 }
