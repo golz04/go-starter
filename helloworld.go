@@ -26,4 +26,9 @@ func main() {
 	fmt.Println("----------------")
 	sampleString()
 	fmt.Println()
+
+	fmt.Println("Variable")
+	fmt.Println("--------")
+	sampleVariable()
+	fmt.Println()
 }
